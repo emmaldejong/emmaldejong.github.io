@@ -1,9 +1,13 @@
 .container {
-    width: 150px;
-    height: 100px;
+    /*width: 150px;*/
+    /*height: 100px;*/
     background-color: lightsteelblue;
-    background-image: url("code-pexels.jpeg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
+    background-image: url("code2 -pexels.jpeg");
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: 50% 50%;*/
+}
+.jumbotron {
+    opacity: .8;
+    text-align: center;
 }
