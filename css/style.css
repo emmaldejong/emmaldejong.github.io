@@ -1,13 +1,48 @@
-.container {
-    /*width: 150px;*/
-    /*height: 100px;*/
+.container-fluid {
     background-color: lightsteelblue;
-    background-image: url("code2 -pexels.jpeg");
-    /*background-size: cover;*/
-    /*background-repeat: no-repeat;*/
-    /*background-position: 50% 50%;*/
 }
-.jumbotron {
-    opacity: .8;
+
+.header {
+    text-align: center;
+}
+
+.home-header {
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-right: 44px;
+    margin-left: 44px;
+    background-color: lightgray;
+    text-align: center;
+}
+.about-me {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 44px;
+    margin-left: 44px;
+    background-color: #bd9897;
+    text-align: center;
+}
+.projects-skills {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 44px;
+    margin-left: 44px;
+    background-color: #bd9897;
+    text-align: center;
+}
+.background {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 44px;
+    margin-left: 44px;
+    background-color: #bd9897;
+    text-align: center;
+}
+.contact-resume {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 44px;
+    margin-left: 44px;
+    background-color: #bd9897;
     text-align: center;
 }
