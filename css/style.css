@@ -1,26 +1,31 @@
 .container-fluid {
     background-color: lightsteelblue;
 }
-
 .header {
     text-align: center;
 }
-
 .home-header {
     width: 100vw;
     height: 100vh;
     background-size: contain;
     background: lightgray url("background-black-clouds-696680.jpg") no-repeat center;
     text-align: center;
+    font-family: 'Shadows Into Light', cursive;
 }
 .pitch {
     background-color: #bd9897;
-    opacity: .7;
+    opacity: .8;
     margin-top: 280px;
+    /*border-radius: 50%;*/
+}
+.pitch-text {
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 18px;
 }
 .about-me {
     width: 100vw;
-    height: 100vh;
+    height: 50vh;
     background-color: black;
     text-align: center;
     color: lightsteelblue;
@@ -34,7 +39,7 @@
 }
 .code-image {
     width: 100vw;
-    height: 80vh;
+    height: 60vh;
     background-size: contain;
     background: lightgray url("codes-coding-computer-247791.jpg") no-repeat center;
     text-align: center;
@@ -48,7 +53,7 @@
 }
 .contact-resume {
     width: 100vw;
-    height: 100vh;
+    height: 60vh;
     background-size: contain;
     background: lightgray url("background-black-clouds-696680.jpg") no-repeat center;
     text-align: center;
