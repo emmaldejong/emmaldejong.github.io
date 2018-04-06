@@ -7,42 +7,49 @@
 }
 
 .home-header {
-    margin-top: 200px;
-    margin-bottom: 200px;
-    margin-right: 44px;
-    margin-left: 44px;
-    background-color: lightgray;
+    width: 100vw;
+    height: 100vh;
+    background-size: contain;
+    background: lightgray url("background-black-clouds-696680.jpg") no-repeat center;
     text-align: center;
+}
+.pitch {
+    background-color: #bd9897;
+    opacity: .7;
+    margin-top: 280px;
 }
 .about-me {
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-right: 44px;
-    margin-left: 44px;
-    background-color: #bd9897;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
     text-align: center;
+    color: lightsteelblue;
 }
 .projects-skills {
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-right: 44px;
-    margin-left: 44px;
-    background-color: #bd9897;
+    width: 100vw;
+    height: 50vh;
+    background-color: black;
+    text-align: center;
+    color: lightsteelblue;
+}
+.code-image {
+    width: 100vw;
+    height: 80vh;
+    background-size: contain;
+    background: lightgray url("codes-coding-computer-247791.jpg") no-repeat center;
     text-align: center;
 }
 .background {
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-right: 44px;
-    margin-left: 44px;
-    background-color: #bd9897;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
     text-align: center;
+    color: lightsteelblue;
 }
 .contact-resume {
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-right: 44px;
-    margin-left: 44px;
-    background-color: #bd9897;
+    width: 100vw;
+    height: 100vh;
+    background-size: contain;
+    background: lightgray url("background-black-clouds-696680.jpg") no-repeat center;
     text-align: center;
 }
