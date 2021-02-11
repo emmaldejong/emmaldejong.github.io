@@ -9,7 +9,7 @@ version: 2
 name: Emma DeJong
 title: Software Engineer
 email: dejong.l.emma@gmail.com
-website: https://emmaldejong.github.io/edejong_resume/
+website: emmaldejong.github.io
 
 # Dark Mode (true/false/never)
 darkmode: true
