@@ -63,20 +63,34 @@ content:
       - layout: top-middle
         description: |
          - Server Side Technologies [ *Ruby on Rails, Java* ]
-         - Client Side Technologies [ *React, Angular* ]
+         - Client Side Technologies [ *React* ]
          - API Development [ *GraphQL, Rest* ]
-         - RDBMs [ *PostgresQL, MySQL* ]
+         - RDBMs [ *PostgresQL* ]
          - Testing [ *RSpec, JUnit* ]
-         - Notable Mentions (Novice Level) [ *Node.js, Docker/Kubernetes, MongoDB* ]
+      
   - title: Experience # ---- Title for the section ----
     layout: list # ---- Type of content section (list/text) ----
     content:
+    - layout: left
+        title: PayNearMe
+        link: https://home.paynearme.com/
+        # link_text: boringcompany.com
+        sub_title: Software Developer
+        caption: July 2021 - Present
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | 
+          - Wrote production Rails scripts to make updates to data or processes for customer requests 
+          - Researched feature requests to help provide technical requirements for stories
+          - Rolled out fixes for system bugs after identifying the issue and communicating a proposed solution to necessary team members
+          - Created and implemented technical architecture for third party API integration for a newly launching enterprise customer
+
       - layout: left
         title: CaptureRx
         link: capturerx.com
         # link_text: boringcompany.com
         sub_title: Software Developer
-        caption: August 2019 - Present
+        caption: August 2019 - June 2021
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | 
