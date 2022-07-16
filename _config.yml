@@ -62,7 +62,7 @@ content:
     content:
       - layout: top-middle
         description: |
-         - Server Side Technologies [ *Ruby on Rails, Java* ]
+         - TESTING PUSHES Server Side Technologies [ *Ruby on Rails, Java* ]
          - Client Side Technologies [ *React* ]
          - API Development [ *GraphQL, Rest* ]
          - RDBMs [ *PostgresQL* ]
